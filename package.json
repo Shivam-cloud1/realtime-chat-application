@@ -1,0 +1,11 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "build chatbot",
+  "main": "public/server.js",
+  "scripts": {
+    "dev" : "nodemon server"
+  },
+  "author": "coder",
+  "license": "ISC"
+}
